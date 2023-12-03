@@ -1,0 +1,47 @@
+CRITICAL - 2023-11-07 02:57:44 --> Call to a member function join() on array
+in APPPATH/Controllers/Pages.php on line 35.
+ 1 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Pages->employee()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/alfa/Documents/code/belajar-ci/first-app/public/index.php')
+CRITICAL - 2023-11-07 03:01:00 --> syntax error, unexpected '}', expecting ';'
+in APPPATH/Controllers/Pages.php on line 44.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+ 4 [internal function]: spl_autoload_call()
+ 5 SYSTEMPATH/CodeIgniter.php(900): class_exists()
+ 6 SYSTEMPATH/CodeIgniter.php(489): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/alfa/Documents/code/belajar-ci/first-app/public/index.php')
+CRITICAL - 2023-11-07 03:02:16 --> Call to a member function findAll() on null
+in APPPATH/Controllers/Pages.php on line 35.
+ 1 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Pages->employee()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/alfa/Documents/code/belajar-ci/first-app/public/index.php')
+CRITICAL - 2023-11-07 03:19:25 --> Class 'App\Controllers\JabatanModel' not found
+in APPPATH/Controllers/Pages.php on line 11.
+ 1 SYSTEMPATH/CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/alfa/Documents/code/belajar-ci/first-app/public/index.php')
+CRITICAL - 2023-11-07 03:19:56 --> Class 'App\Models\JabatannModel' not found
+in APPPATH/Controllers/Pages.php on line 12.
+ 1 SYSTEMPATH/CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/alfa/Documents/code/belajar-ci/first-app/public/index.php')
+CRITICAL - 2023-11-07 03:20:30 --> Use of undefined constant data_jabatan - assumed 'data_jabatan' (this will throw an Error in a future version of PHP)
+in APPPATH/Controllers/Pages.php on line 86.
+ 1 APPPATH/Controllers/Pages.php(86): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Pages->insertEmployee()
+ 3 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/alfa/Documents/code/belajar-ci/first-app/public/index.php')

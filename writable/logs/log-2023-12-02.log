@@ -1,0 +1,331 @@
+WARNING - 2023-12-02 04:25:42 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-02 04:25:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-02 04:25:54 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-02 04:25:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-02 04:25:59 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-02 04:25:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-02 04:26:47 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-02 04:26:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-12-02 04:26:50 --> Error connecting to the database: mysqli_sql_exception: No connection could be made because the target machine actively refused it in C:\xampp\htdocs\belajar-ci\first-app\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 C:\xampp\htdocs\belajar-ci\first-app\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('127.0.0.1', 'root', Object(SensitiveParameterValue), 'db_test', 3306, '', 0)
+#1 C:\xampp\htdocs\belajar-ci\first-app\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\belajar-ci\first-app\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\belajar-ci\first-app\system\Database\BaseBuilder.php(1699): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*)...', Array, false)
+#4 C:\xampp\htdocs\belajar-ci\first-app\system\Model.php(599): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+#5 C:\xampp\htdocs\belajar-ci\first-app\system\BaseModel.php(1203): CodeIgniter\Model->countAllResults(false)
+#6 C:\xampp\htdocs\belajar-ci\first-app\app\Controllers\Pages.php(42): CodeIgniter\BaseModel->paginate(4)
+#7 C:\xampp\htdocs\belajar-ci\first-app\system\CodeIgniter.php(942): App\Controllers\Pages->employee()
+#8 C:\xampp\htdocs\belajar-ci\first-app\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#9 C:\xampp\htdocs\belajar-ci\first-app\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\belajar-ci\first-app\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No connection could be made because the target machine actively refused it in C:\xampp\htdocs\belajar-ci\first-app\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\xampp\htdocs\belajar-ci\first-app\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\belajar-ci\first-app\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\belajar-ci\first-app\system\Database\BaseBuilder.php(1699): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*)...', Array, false)
+#3 C:\xampp\htdocs\belajar-ci\first-app\system\Model.php(599): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+#4 C:\xampp\htdocs\belajar-ci\first-app\system\BaseModel.php(1203): CodeIgniter\Model->countAllResults(false)
+#5 C:\xampp\htdocs\belajar-ci\first-app\app\Controllers\Pages.php(42): CodeIgniter\BaseModel->paginate(4)
+#6 C:\xampp\htdocs\belajar-ci\first-app\system\CodeIgniter.php(942): App\Controllers\Pages->employee()
+#7 C:\xampp\htdocs\belajar-ci\first-app\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#8 C:\xampp\htdocs\belajar-ci\first-app\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\belajar-ci\first-app\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-12-02 04:26:50 --> Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1699): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*) AS `numrows`
+FROM `tb_employee`', [], false)
+ 3 SYSTEMPATH\Model.php(599): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+ 4 SYSTEMPATH\BaseModel.php(1203): CodeIgniter\Model->countAllResults(false)
+ 5 APPPATH\Controllers\Pages.php(42): CodeIgniter\BaseModel->paginate(4)
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Pages->employee()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-02 04:27:04 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-02 04:27:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-02 04:27:15 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-02 04:27:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-02 04:31:42 --> Undefined variable $data_employee
+in APPPATH\Controllers\Pages.php on line 47.
+ 1 APPPATH\Controllers\Pages.php(47): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data_employee', 'C:\\xampp\\htdocs\\belajar-ci\\first-app\\app\\Controllers\\Pages.php', 47)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Pages->employee()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-02 04:33:31 --> Undefined array key "employee_name"
+in APPPATH\Views\pages\employee.php on line 47.
+ 1 APPPATH\Views\pages\employee.php(47): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "employee_name"', 'C:\\xampp\\htdocs\\belajar-ci\\first-app\\app\\Views\\pages\\employee.php', 47)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\belajar-ci\\first-app\\app\\Views\\pages\\employee.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('pages/employee', [], true)
+ 5 APPPATH\Controllers\Pages.php(52): view('pages/employee', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Pages->employee()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-02 04:33:33 --> Undefined array key "employee_name"
+in APPPATH\Views\pages\employee.php on line 47.
+ 1 APPPATH\Views\pages\employee.php(47): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "employee_name"', 'C:\\xampp\\htdocs\\belajar-ci\\first-app\\app\\Views\\pages\\employee.php', 47)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\belajar-ci\\first-app\\app\\Views\\pages\\employee.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('pages/employee', [], true)
+ 5 APPPATH\Controllers\Pages.php(52): view('pages/employee', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Pages->employee()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-02 04:33:33 --> Undefined array key "employee_name"
+in APPPATH\Views\pages\employee.php on line 47.
+ 1 APPPATH\Views\pages\employee.php(47): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "employee_name"', 'C:\\xampp\\htdocs\\belajar-ci\\first-app\\app\\Views\\pages\\employee.php', 47)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\belajar-ci\\first-app\\app\\Views\\pages\\employee.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('pages/employee', [], true)
+ 5 APPPATH\Controllers\Pages.php(52): view('pages/employee', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Pages->employee()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-02 04:33:35 --> Undefined array key "employee_name"
+in APPPATH\Views\pages\employee.php on line 47.
+ 1 APPPATH\Views\pages\employee.php(47): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "employee_name"', 'C:\\xampp\\htdocs\\belajar-ci\\first-app\\app\\Views\\pages\\employee.php', 47)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\belajar-ci\\first-app\\app\\Views\\pages\\employee.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('pages/employee', [], true)
+ 5 APPPATH\Controllers\Pages.php(52): view('pages/employee', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Pages->employee()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-02 04:33:35 --> Undefined array key "employee_name"
+in APPPATH\Views\pages\employee.php on line 47.
+ 1 APPPATH\Views\pages\employee.php(47): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "employee_name"', 'C:\\xampp\\htdocs\\belajar-ci\\first-app\\app\\Views\\pages\\employee.php', 47)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\belajar-ci\\first-app\\app\\Views\\pages\\employee.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('pages/employee', [], true)
+ 5 APPPATH\Controllers\Pages.php(52): view('pages/employee', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Pages->employee()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-02 04:33:36 --> Undefined array key "employee_name"
+in APPPATH\Views\pages\employee.php on line 47.
+ 1 APPPATH\Views\pages\employee.php(47): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "employee_name"', 'C:\\xampp\\htdocs\\belajar-ci\\first-app\\app\\Views\\pages\\employee.php', 47)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\belajar-ci\\first-app\\app\\Views\\pages\\employee.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('pages/employee', [], true)
+ 5 APPPATH\Controllers\Pages.php(52): view('pages/employee', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Pages->employee()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-02 04:47:35 --> Cannot use object of type mysqli as array
+in APPPATH\Views\pages\employee.php on line 47.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('pages/employee', [], true)
+ 4 APPPATH\Controllers\Pages.php(50): view('pages/employee', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Pages->employee()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-02 04:48:32 --> mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, CodeIgniter\Database\MySQLi\Result given
+in APPPATH\Controllers\Pages.php on line 39.
+ 1 APPPATH\Controllers\Pages.php(39): mysqli_fetch_assoc(Object(CodeIgniter\Database\MySQLi\Result))
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Pages->employee()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-02 04:49:24 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::resultArray()
+in APPPATH\Controllers\Pages.php on line 39.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Pages->employee()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-02 04:49:33 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::resultArray()
+in APPPATH\Controllers\Pages.php on line 39.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Pages->employee()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-02 04:49:52 --> Cannot use object of type CodeIgniter\Database\MySQLi\Result as array
+in APPPATH\Controllers\Pages.php on line 39.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Pages->employee()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-02 04:53:09 --> Call to a member function links() on null
+in APPPATH\Views\pages\employee.php on line 58.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('pages/employee', [], true)
+ 4 APPPATH\Controllers\Pages.php(51): view('pages/employee', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Pages->employee()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-02 04:54:09 --> Call to a member function links() on null
+in APPPATH\Views\pages\employee.php on line 58.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('pages/employee', [], true)
+ 4 APPPATH\Controllers\Pages.php(51): view('pages/employee', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Pages->employee()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-02 04:54:11 --> Call to a member function links() on null
+in APPPATH\Views\pages\employee.php on line 58.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('pages/employee', [], true)
+ 4 APPPATH\Controllers\Pages.php(51): view('pages/employee', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Pages->employee()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-02 04:56:35 --> syntax error, unexpected token "}", expecting "," or ";"
+in APPPATH\Views\pages\employee.php on line 62.
+ 1 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('pages/employee', [], true)
+ 3 APPPATH\Controllers\Pages.php(53): view('pages/employee', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Pages->employee()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-02 04:56:41 --> syntax error, unexpected token "}", expecting "," or ";"
+in APPPATH\Views\pages\employee.php on line 62.
+ 1 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('pages/employee', [], true)
+ 3 APPPATH\Controllers\Pages.php(53): view('pages/employee', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Pages->employee()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-12-02 04:57:47 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''%' OR employee_age LIKE '%9'%'' at line 1 in C:\xampp\htdocs\belajar-ci\first-app\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\belajar-ci\first-app\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT * FROM t...', 0)
+#1 C:\xampp\htdocs\belajar-ci\first-app\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT * FROM t...')
+#2 C:\xampp\htdocs\belajar-ci\first-app\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * FROM t...')
+#3 C:\xampp\htdocs\belajar-ci\first-app\app\Controllers\Pages.php(38): CodeIgniter\Database\BaseConnection->query('SELECT * FROM t...')
+#4 C:\xampp\htdocs\belajar-ci\first-app\system\CodeIgniter.php(942): App\Controllers\Pages->employee()
+#5 C:\xampp\htdocs\belajar-ci\first-app\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#6 C:\xampp\htdocs\belajar-ci\first-app\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\belajar-ci\first-app\index.php(79): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-12-02 04:57:47 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''%' OR employee_age LIKE '%9'%'' at line 1
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 APPPATH\Controllers\Pages.php(38): CodeIgniter\Database\BaseConnection->query('SELECT * FROM tb_employee WHERE employee_name LIKE \'%9\'%\' OR  employee_salary LIKE \'%9\'%\' OR employee_age LIKE \'%9\'%\'')
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Pages->employee()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-12-02 05:05:40 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''%' OR employee_age LIKE '%9'%'' at line 1 in C:\xampp\htdocs\belajar-ci\first-app\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\belajar-ci\first-app\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT * FROM t...', 0)
+#1 C:\xampp\htdocs\belajar-ci\first-app\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT * FROM t...')
+#2 C:\xampp\htdocs\belajar-ci\first-app\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * FROM t...')
+#3 C:\xampp\htdocs\belajar-ci\first-app\app\Controllers\Pages.php(38): CodeIgniter\Database\BaseConnection->query('SELECT * FROM t...')
+#4 C:\xampp\htdocs\belajar-ci\first-app\system\CodeIgniter.php(942): App\Controllers\Pages->employee()
+#5 C:\xampp\htdocs\belajar-ci\first-app\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#6 C:\xampp\htdocs\belajar-ci\first-app\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\belajar-ci\first-app\index.php(79): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-12-02 05:05:41 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''%' OR employee_age LIKE '%9'%'' at line 1
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 APPPATH\Controllers\Pages.php(38): CodeIgniter\Database\BaseConnection->query('SELECT * FROM tb_employee WHERE employee_name LIKE \'%9\'%\' OR  employee_salary LIKE \'%9\'%\' OR employee_age LIKE \'%9\'%\'')
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Pages->employee()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-12-02 05:06:09 --> mysqli_sql_exception: Unknown column '9' in 'order clause' in C:\xampp\htdocs\belajar-ci\first-app\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\belajar-ci\first-app\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT * FROM t...', 0)
+#1 C:\xampp\htdocs\belajar-ci\first-app\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT * FROM t...')
+#2 C:\xampp\htdocs\belajar-ci\first-app\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * FROM t...')
+#3 C:\xampp\htdocs\belajar-ci\first-app\app\Controllers\Pages.php(38): CodeIgniter\Database\BaseConnection->query('SELECT * FROM t...')
+#4 C:\xampp\htdocs\belajar-ci\first-app\system\CodeIgniter.php(942): App\Controllers\Pages->employee()
+#5 C:\xampp\htdocs\belajar-ci\first-app\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#6 C:\xampp\htdocs\belajar-ci\first-app\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\belajar-ci\first-app\index.php(79): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-12-02 05:06:09 --> Unknown column '9' in 'order clause'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 APPPATH\Controllers\Pages.php(38): CodeIgniter\Database\BaseConnection->query('SELECT * FROM tb_employee WHERE employee_name LIKE \'%9\'ORDER BY 9-- -%\' OR  employee_salary LIKE \'%9\'ORDER BY 9-- -%\' OR employee_age LIKE \'%9\'ORDER BY 9-- -%\'')
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Pages->employee()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-12-02 05:07:07 --> mysqli_sql_exception: Unknown column '9' in 'order clause' in C:\xampp\htdocs\belajar-ci\first-app\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\belajar-ci\first-app\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT * FROM t...', 0)
+#1 C:\xampp\htdocs\belajar-ci\first-app\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT * FROM t...')
+#2 C:\xampp\htdocs\belajar-ci\first-app\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * FROM t...')
+#3 C:\xampp\htdocs\belajar-ci\first-app\app\Controllers\Pages.php(38): CodeIgniter\Database\BaseConnection->query('SELECT * FROM t...')
+#4 C:\xampp\htdocs\belajar-ci\first-app\system\CodeIgniter.php(942): App\Controllers\Pages->employee()
+#5 C:\xampp\htdocs\belajar-ci\first-app\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#6 C:\xampp\htdocs\belajar-ci\first-app\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\belajar-ci\first-app\index.php(79): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-12-02 05:07:07 --> Unknown column '9' in 'order clause'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 APPPATH\Controllers\Pages.php(38): CodeIgniter\Database\BaseConnection->query('SELECT * FROM tb_employee WHERE employee_name LIKE \'%9\' ORDER BY 9-- -%\' OR  employee_salary LIKE \'%9\' ORDER BY 9-- -%\' OR employee_age LIKE \'%9\' ORDER BY 9-- -%\'')
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Pages->employee()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-02 05:30:18 --> Call to undefined method CodeIgniter\HTTP\Files\UploadedFile::getOriginalMimeType()
+in APPPATH\Controllers\Pages.php on line 94.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Pages->saveEmployee()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-02 05:31:38 --> Call to undefined method CodeIgniter\HTTP\Files\UploadedFile::originalMimeType()
+in APPPATH\Controllers\Pages.php on line 95.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Pages->saveEmployee()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-02 05:57:59 --> Call to a member function getSize() on string
+in APPPATH\Controllers\Pages.php on line 98.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Pages->saveEmployee()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-02 06:16:18 --> unlink(src/img/profil-kosong.jpeg): No such file or directory
+in APPPATH\Controllers\Pages.php on line 180.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(src/img/profil-kosong.jpeg): No such file or directory', 'C:\\xampp\\htdocs\\belajar-ci\\first-app\\app\\Controllers\\Pages.php', 180)
+ 2 APPPATH\Controllers\Pages.php(180): unlink('src/img/profil-kosong.jpeg')
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Pages->editEmployee()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()

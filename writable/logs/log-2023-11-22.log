@@ -1,0 +1,880 @@
+WARNING - 2023-11-22 04:32:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+INFO - 2023-11-22 04:32:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-22 04:32:20 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+INFO - 2023-11-22 04:32:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-22 04:32:24 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+INFO - 2023-11-22 04:32:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-22 04:32:26 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+INFO - 2023-11-22 04:32:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-22 04:32:30 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+INFO - 2023-11-22 04:32:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-22 04:32:30 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+INFO - 2023-11-22 04:32:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-22 04:33:34 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+INFO - 2023-11-22 04:33:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-22 04:33:50 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+INFO - 2023-11-22 04:33:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-22 04:33:50 --> "m{ioo}}qwujpg,image/jpeg,image/png,image/gif,image/webp,image/svg]" is not a valid rule.
+in SYSTEMPATH\Validation\Validation.php on line 319.
+ 1 SYSTEMPATH\Validation\Validation.php(319): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('m{ioo}}qwujpg,image/jpeg,image/png,image/gif,image/webp,image/svg]')
+ 2 SYSTEMPATH\Validation\Validation.php(197): CodeIgniter\Validation\Validation->processRules('foto', 'foto', null, [...], [...])
+ 3 SYSTEMPATH\Controller.php(152): CodeIgniter\Validation\Validation->run()
+ 4 APPPATH\Controllers\Pages.php(83): CodeIgniter\Controller->validate([...])
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Pages->saveEmployee()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+WARNING - 2023-11-22 04:34:39 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+INFO - 2023-11-22 04:34:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-22 04:34:41 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+INFO - 2023-11-22 04:34:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-22 04:34:41 --> "m{ioo}}qwujpg,image/jpeg,image/png,image/gif,image/webp,image/svg]" is not a valid rule.
+in SYSTEMPATH\Validation\Validation.php on line 319.
+ 1 SYSTEMPATH\Validation\Validation.php(319): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('m{ioo}}qwujpg,image/jpeg,image/png,image/gif,image/webp,image/svg]')
+ 2 SYSTEMPATH\Validation\Validation.php(197): CodeIgniter\Validation\Validation->processRules('foto', 'foto', null, [...], [...])
+ 3 SYSTEMPATH\Controller.php(152): CodeIgniter\Validation\Validation->run()
+ 4 APPPATH\Controllers\Pages.php(83): CodeIgniter\Controller->validate([...])
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Pages->saveEmployee()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+WARNING - 2023-11-22 04:34:43 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+INFO - 2023-11-22 04:34:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-22 04:34:44 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+INFO - 2023-11-22 04:34:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-22 04:34:51 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+INFO - 2023-11-22 04:34:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-22 04:34:51 --> "m{ioo}}qwujpg,image/jpeg,image/png,image/gif,image/webp,image/svg]" is not a valid rule.
+in SYSTEMPATH\Validation\Validation.php on line 319.
+ 1 SYSTEMPATH\Validation\Validation.php(319): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('m{ioo}}qwujpg,image/jpeg,image/png,image/gif,image/webp,image/svg]')
+ 2 SYSTEMPATH\Validation\Validation.php(197): CodeIgniter\Validation\Validation->processRules('foto', 'foto', null, [...], [...])
+ 3 SYSTEMPATH\Controller.php(152): CodeIgniter\Validation\Validation->run()
+ 4 APPPATH\Controllers\Pages.php(83): CodeIgniter\Controller->validate([...])
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Pages->saveEmployee()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+WARNING - 2023-11-22 04:35:21 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+INFO - 2023-11-22 04:35:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-22 04:35:21 --> "m{ioo}}qwujpg,image/jpeg,image/png,image/gif]" is not a valid rule.
+in SYSTEMPATH\Validation\Validation.php on line 319.
+ 1 SYSTEMPATH\Validation\Validation.php(319): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('m{ioo}}qwujpg,image/jpeg,image/png,image/gif]')
+ 2 SYSTEMPATH\Validation\Validation.php(197): CodeIgniter\Validation\Validation->processRules('foto', 'foto', null, [...], [...])
+ 3 SYSTEMPATH\Controller.php(152): CodeIgniter\Validation\Validation->run()
+ 4 APPPATH\Controllers\Pages.php(83): CodeIgniter\Controller->validate([...])
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Pages->saveEmployee()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+WARNING - 2023-11-22 04:35:59 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+INFO - 2023-11-22 04:35:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-22 04:35:59 --> strpos(): Argument #3 ($offset) must be contained in argument #1 ($haystack)
+in SYSTEMPATH\Validation\Validation.php on line 935.
+ 1 SYSTEMPATH\Validation\Validation.php(935): strpos('m{ogvo|ouw<0peg, png, gif]', '|', 34)
+ 2 SYSTEMPATH\Validation\Validation.php(574): CodeIgniter\Validation\Validation->splitRules([...])
+ 3 SYSTEMPATH\Controller.php(196): CodeIgniter\Validation\Validation->setRules([...], [])
+ 4 SYSTEMPATH\Controller.php(150): CodeIgniter\Controller->setValidator([...], [])
+ 5 APPPATH\Controllers\Pages.php(83): CodeIgniter\Controller->validate([...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Pages->saveEmployee()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+WARNING - 2023-11-22 04:36:05 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+INFO - 2023-11-22 04:36:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-22 04:36:06 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+INFO - 2023-11-22 04:36:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-22 04:36:08 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+INFO - 2023-11-22 04:36:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-22 04:36:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+INFO - 2023-11-22 04:36:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-22 04:36:19 --> strpos(): Argument #3 ($offset) must be contained in argument #1 ($haystack)
+in SYSTEMPATH\Validation\Validation.php on line 935.
+ 1 SYSTEMPATH\Validation\Validation.php(935): strpos('m{ogvo|ouw<0peg, png, gif]', '|', 34)
+ 2 SYSTEMPATH\Validation\Validation.php(574): CodeIgniter\Validation\Validation->splitRules([...])
+ 3 SYSTEMPATH\Controller.php(196): CodeIgniter\Validation\Validation->setRules([...], [])
+ 4 SYSTEMPATH\Controller.php(150): CodeIgniter\Controller->setValidator([...], [])
+ 5 APPPATH\Controllers\Pages.php(83): CodeIgniter\Controller->validate([...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Pages->saveEmployee()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+WARNING - 2023-11-22 04:39:06 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+INFO - 2023-11-22 04:39:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-22 04:39:06 --> strpos(): Argument #3 ($offset) must be contained in argument #1 ($haystack)
+in SYSTEMPATH\Validation\Validation.php on line 935.
+ 1 SYSTEMPATH\Validation\Validation.php(935): strpos('m{ogvo|ouw<0peg, png, gif]', '|', 34)
+ 2 SYSTEMPATH\Validation\Validation.php(574): CodeIgniter\Validation\Validation->splitRules([...])
+ 3 SYSTEMPATH\Controller.php(196): CodeIgniter\Validation\Validation->setRules([...], [])
+ 4 SYSTEMPATH\Controller.php(150): CodeIgniter\Controller->setValidator([...], [])
+ 5 APPPATH\Controllers\Pages.php(83): CodeIgniter\Controller->validate([...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Pages->saveEmployee()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+WARNING - 2023-11-22 04:39:18 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+INFO - 2023-11-22 04:39:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-22 04:39:20 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+INFO - 2023-11-22 04:39:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-22 04:39:22 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+INFO - 2023-11-22 04:39:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-22 04:39:29 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+INFO - 2023-11-22 04:39:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-22 04:39:29 --> "m{ioo}}qwujpg,image/jpeg,image/png,image/gif,image/webp,image/svg]" is not a valid rule.
+in SYSTEMPATH\Validation\Validation.php on line 319.
+ 1 SYSTEMPATH\Validation\Validation.php(319): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('m{ioo}}qwujpg,image/jpeg,image/png,image/gif,image/webp,image/svg]')
+ 2 SYSTEMPATH\Validation\Validation.php(197): CodeIgniter\Validation\Validation->processRules('foto', 'foto', null, [...], [...])
+ 3 SYSTEMPATH\Controller.php(152): CodeIgniter\Validation\Validation->run()
+ 4 APPPATH\Controllers\Pages.php(83): CodeIgniter\Controller->validate([...])
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Pages->saveEmployee()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+WARNING - 2023-11-22 04:40:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+INFO - 2023-11-22 04:40:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-22 04:40:53 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+INFO - 2023-11-22 04:40:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-22 04:41:00 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+INFO - 2023-11-22 04:41:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-22 04:41:02 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+INFO - 2023-11-22 04:41:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-22 04:41:51 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+INFO - 2023-11-22 04:41:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-22 04:41:58 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+INFO - 2023-11-22 04:41:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-22 04:41:58 --> "m{ioo}}qwujpg,image/jpeg,image/png,image/gif,image/webp,image/svg]" is not a valid rule.
+in SYSTEMPATH\Validation\Validation.php on line 319.
+ 1 SYSTEMPATH\Validation\Validation.php(319): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('m{ioo}}qwujpg,image/jpeg,image/png,image/gif,image/webp,image/svg]')
+ 2 SYSTEMPATH\Validation\Validation.php(197): CodeIgniter\Validation\Validation->processRules('foto', 'foto', null, [...], [...])
+ 3 SYSTEMPATH\Controller.php(152): CodeIgniter\Validation\Validation->run()
+ 4 APPPATH\Controllers\Pages.php(84): CodeIgniter\Controller->validate([...])
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Pages->saveEmployee()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+WARNING - 2023-11-22 04:44:33 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+INFO - 2023-11-22 04:44:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-22 04:44:33 --> "msie" is not a valid rule.
+in SYSTEMPATH\Validation\Validation.php on line 319.
+ 1 SYSTEMPATH\Validation\Validation.php(319): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('msie')
+ 2 SYSTEMPATH\Validation\Validation.php(197): CodeIgniter\Validation\Validation->processRules('foto', 'foto', null, [...], [...])
+ 3 SYSTEMPATH\Controller.php(152): CodeIgniter\Validation\Validation->run()
+ 4 APPPATH\Controllers\Pages.php(84): CodeIgniter\Controller->validate([...])
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Pages->saveEmployee()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+WARNING - 2023-11-22 04:44:57 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+INFO - 2023-11-22 04:44:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-22 04:44:57 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+INFO - 2023-11-22 04:44:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-22 04:45:00 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+INFO - 2023-11-22 04:45:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-22 04:46:29 --> syntax error, unexpected token "if"
+in APPPATH\Controllers\Pages.php on line 78.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\app\\Controllers\\Pages.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Pages')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Pages')
+ 4 SYSTEMPATH\CodeIgniter.php(900): class_exists('\\App\\Controllers\\Pages', true)
+ 5 SYSTEMPATH\CodeIgniter.php(489): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+WARNING - 2023-11-22 04:46:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+INFO - 2023-11-22 04:46:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-22 05:19:42 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+INFO - 2023-11-22 05:19:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-22 05:20:38 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+INFO - 2023-11-22 05:20:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-22 06:58:54 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+INFO - 2023-11-22 06:58:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-22 06:59:00 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+INFO - 2023-11-22 06:59:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-11-22 06:59:02 --> Error connecting to the database: mysqli_sql_exception: No connection could be made because the target machine actively refused it in C:\Users\Admin\Documents\web\belajar-ci\first-app\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 C:\Users\Admin\Documents\web\belajar-ci\first-app\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('127.0.0.1', 'root', Object(SensitiveParameterValue), 'db_test', 3306, '', 0)
+#1 C:\Users\Admin\Documents\web\belajar-ci\first-app\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\Users\Admin\Documents\web\belajar-ci\first-app\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\Users\Admin\Documents\web\belajar-ci\first-app\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\Users\Admin\Documents\web\belajar-ci\first-app\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Users\Admin\Documents\web\belajar-ci\first-app\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\Users\Admin\Documents\web\belajar-ci\first-app\app\Controllers\Pages.php(64): CodeIgniter\BaseModel->findAll()
+#7 C:\Users\Admin\Documents\web\belajar-ci\first-app\system\CodeIgniter.php(942): App\Controllers\Pages->insertEmployee()
+#8 C:\Users\Admin\Documents\web\belajar-ci\first-app\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#9 C:\Users\Admin\Documents\web\belajar-ci\first-app\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\Users\Admin\Documents\web\belajar-ci\first-app\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\Users\Admin\Documents\web\belajar-ci\first-app\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\...')
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No connection could be made because the target machine actively refused it in C:\Users\Admin\Documents\web\belajar-ci\first-app\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\Users\Admin\Documents\web\belajar-ci\first-app\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\Users\Admin\Documents\web\belajar-ci\first-app\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\Users\Admin\Documents\web\belajar-ci\first-app\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\Users\Admin\Documents\web\belajar-ci\first-app\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\Users\Admin\Documents\web\belajar-ci\first-app\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\Users\Admin\Documents\web\belajar-ci\first-app\app\Controllers\Pages.php(64): CodeIgniter\BaseModel->findAll()
+#6 C:\Users\Admin\Documents\web\belajar-ci\first-app\system\CodeIgniter.php(942): App\Controllers\Pages->insertEmployee()
+#7 C:\Users\Admin\Documents\web\belajar-ci\first-app\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#8 C:\Users\Admin\Documents\web\belajar-ci\first-app\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Users\Admin\Documents\web\belajar-ci\first-app\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 C:\Users\Admin\Documents\web\belajar-ci\first-app\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\...')
+#11 {main}
+CRITICAL - 2023-11-22 06:59:02 --> Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `tb_jabatan`', [], false)
+ 3 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\Pages.php(64): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Pages->insertEmployee()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+WARNING - 2023-11-22 07:00:54 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+INFO - 2023-11-22 07:00:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-22 07:01:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+INFO - 2023-11-22 07:01:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-22 07:06:54 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+INFO - 2023-11-22 07:06:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-22 07:06:54 --> Undefined array key "size"
+in APPPATH\Controllers\Pages.php on line 84.
+ 1 APPPATH\Controllers\Pages.php(84): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "size"', 'C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\app\\Controllers\\Pages.php', 84)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Pages->saveEmployee()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+WARNING - 2023-11-22 07:07:07 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+INFO - 2023-11-22 07:07:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-22 07:07:07 --> Cannot use object of type CodeIgniter\HTTP\Files\UploadedFile as array
+in APPPATH\Controllers\Pages.php on line 84.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Pages->saveEmployee()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+WARNING - 2023-11-22 07:07:26 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+INFO - 2023-11-22 07:07:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-22 07:07:26 --> Cannot access protected property CodeIgniter\HTTP\Files\UploadedFile::$size
+in APPPATH\Controllers\Pages.php on line 84.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Pages->saveEmployee()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+WARNING - 2023-11-22 07:07:34 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+INFO - 2023-11-22 07:07:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-22 07:07:51 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+INFO - 2023-11-22 07:07:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-22 07:08:16 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+INFO - 2023-11-22 07:08:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-22 07:08:16 --> Cannot use object of type CodeIgniter\HTTP\Files\UploadedFile as array
+in APPPATH\Controllers\Pages.php on line 83.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Pages->saveEmployee()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+WARNING - 2023-11-22 07:08:22 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+INFO - 2023-11-22 07:08:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-22 07:08:33 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+INFO - 2023-11-22 07:08:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-22 07:08:33 --> Cannot use object of type CodeIgniter\HTTP\Files\UploadedFile as array
+in APPPATH\Controllers\Pages.php on line 83.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Pages->saveEmployee()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+WARNING - 2023-11-22 07:08:43 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+INFO - 2023-11-22 07:08:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-22 07:09:28 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+INFO - 2023-11-22 07:09:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-22 07:10:51 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+INFO - 2023-11-22 07:10:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-22 07:10:51 --> Call to undefined method CodeIgniter\HTTP\Files\UploadedFile::size()
+in APPPATH\Controllers\Pages.php on line 83.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Pages->saveEmployee()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+WARNING - 2023-11-22 07:11:00 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+INFO - 2023-11-22 07:11:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-22 07:11:14 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+INFO - 2023-11-22 07:11:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-22 07:11:15 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+INFO - 2023-11-22 07:11:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-22 07:11:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+INFO - 2023-11-22 07:11:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-22 07:11:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+INFO - 2023-11-22 07:11:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-22 07:11:21 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+INFO - 2023-11-22 07:11:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-22 07:11:29 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+INFO - 2023-11-22 07:11:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-22 07:11:29 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+INFO - 2023-11-22 07:11:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-22 07:11:31 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+INFO - 2023-11-22 07:11:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-22 07:11:33 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+INFO - 2023-11-22 07:11:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-22 07:11:50 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+INFO - 2023-11-22 07:11:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-22 07:11:50 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+INFO - 2023-11-22 07:11:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-22 07:11:50 --> foreach() argument must be of type array|object, string given
+in APPPATH\Views\pages\insert.php on line 15.
+ 1 APPPATH\Views\pages\insert.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argument must be of type array|object, string given', 'C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\app\\Views\\pages\\insert.php', 15)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\app\\Views\\pages\\insert.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('pages/insert', [], true)
+ 5 APPPATH\Controllers\Pages.php(67): view('pages/insert', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Pages->insertEmployee()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+WARNING - 2023-11-22 07:12:18 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+INFO - 2023-11-22 07:12:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-22 07:12:32 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+INFO - 2023-11-22 07:12:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-22 07:12:33 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+INFO - 2023-11-22 07:12:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-22 07:12:35 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+INFO - 2023-11-22 07:12:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-22 07:12:38 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+INFO - 2023-11-22 07:12:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-22 07:12:38 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+INFO - 2023-11-22 07:12:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-22 07:13:43 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+INFO - 2023-11-22 07:13:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-22 07:13:53 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+INFO - 2023-11-22 07:13:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-22 07:13:54 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+INFO - 2023-11-22 07:13:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-22 07:14:24 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+INFO - 2023-11-22 07:14:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-22 07:14:35 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+INFO - 2023-11-22 07:14:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-22 07:14:36 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+INFO - 2023-11-22 07:14:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-22 07:15:24 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+INFO - 2023-11-22 07:15:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-22 07:15:24 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+INFO - 2023-11-22 07:15:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-22 07:15:50 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+INFO - 2023-11-22 07:15:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-22 07:15:50 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+INFO - 2023-11-22 07:15:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-22 07:15:58 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+INFO - 2023-11-22 07:15:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-22 07:15:58 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+INFO - 2023-11-22 07:15:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-22 07:19:05 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+INFO - 2023-11-22 07:19:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-22 07:19:07 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+INFO - 2023-11-22 07:19:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-22 07:19:48 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+INFO - 2023-11-22 07:19:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-22 07:19:53 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+INFO - 2023-11-22 07:19:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-22 07:19:55 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+INFO - 2023-11-22 07:19:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-22 07:19:56 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+INFO - 2023-11-22 07:19:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-22 07:19:57 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+INFO - 2023-11-22 07:19:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-22 07:40:59 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+INFO - 2023-11-22 07:40:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-22 07:41:01 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+INFO - 2023-11-22 07:41:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-22 07:43:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+INFO - 2023-11-22 07:43:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-22 07:43:21 --> [DEPRECATED] Creation of dynamic property App\Controllers\Pages::$JabatanModel is deprecated in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Pages->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+INFO - 2023-11-22 07:43:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-22 07:43:21 --> Call to a member function getSize() on null
+in APPPATH\Controllers\Pages.php on line 161.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Pages->editEmployee()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')

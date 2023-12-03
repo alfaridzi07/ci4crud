@@ -1,0 +1,28 @@
+CRITICAL - 2023-11-20 06:19:01 --> Undefined variable $error_message
+in APPPATH\Views\pages\employee-detail.php on line 67.
+ 1 APPPATH\Views\pages\employee-detail.php(67): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $error_message', 'C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\app\\Views\\pages\\employee-detail.php', 67)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\app\\Views\\pages\\employee-detail.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('pages/employee-detail', [], true)
+ 5 APPPATH\Controllers\Pages.php(50): view('pages/employee-detail', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Pages->employee('23')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+CRITICAL - 2023-11-20 06:21:25 --> Undefined property: App\Controllers\Pages::$EmployeeModal
+in APPPATH\Controllers\Pages.php on line 170.
+ 1 APPPATH\Controllers\Pages.php(170): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Pages::$EmployeeModal', 'C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\app\\Controllers\\Pages.php', 170)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Pages->editEmployee()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')
+CRITICAL - 2023-11-20 06:23:17 --> Undefined variable $id
+in APPPATH\Controllers\Pages.php on line 162.
+ 1 APPPATH\Controllers\Pages.php(162): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id', 'C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\app\\Controllers\\Pages.php', 162)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Pages->editEmployee()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admin\\Documents\\web\\belajar-ci\\first-app\\public\\index.php')

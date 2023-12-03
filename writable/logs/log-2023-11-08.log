@@ -1,0 +1,429 @@
+CRITICAL - 2023-11-08 02:10:40 --> Class "Locale" not found
+in SYSTEMPATH\CodeIgniter.php on line 218.
+ 1 ROOTPATH\spark(88): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-11-08 02:10:40 --> Uncaught Error: Class "Locale" not found in C:\Users\Administrator\Documents\folder-salman\first-app\system\I18n\TimeTrait.php:74
+Stack trace:
+#0 C:\Users\Administrator\Documents\folder-salman\first-app\system\I18n\TimeTrait.php(115): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 C:\Users\Administrator\Documents\folder-salman\first-app\system\HTTP\ResponseTrait.php(468): CodeIgniter\I18n\Time::now()
+#2 C:\Users\Administrator\Documents\folder-salman\first-app\system\HTTP\ResponseTrait.php(446): CodeIgniter\HTTP\Response->sendHeaders()
+#3 C:\Users\Administrator\Documents\folder-salman\first-app\system\Debug\ExceptionHandler.php(81): CodeIgniter\HTTP\Response->send()
+#4 C:\Users\Administrator\Documents\folder-salman\first-app\system\Debug\Exceptions.php(149): CodeIgniter\Debug\ExceptionHandler->handle(Object(Error), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#5 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#6 {main}
+  thrown
+【Previous Exception】
+Error
+Class "Locale" not found
+#0 C:\Users\Administrator\Documents\folder-salman\first-app\spark(88): CodeIgniter\CodeIgniter->initialize()
+#1 {main}
+in SYSTEMPATH\I18n\TimeTrait.php on line 74.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-11-08 02:11:26 --> Class "Locale" not found
+in SYSTEMPATH\CodeIgniter.php on line 218.
+ 1 ROOTPATH\spark(88): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-11-08 02:11:26 --> Uncaught Error: Class "Locale" not found in C:\Users\Administrator\Documents\folder-salman\first-app\system\I18n\TimeTrait.php:74
+Stack trace:
+#0 C:\Users\Administrator\Documents\folder-salman\first-app\system\I18n\TimeTrait.php(115): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 C:\Users\Administrator\Documents\folder-salman\first-app\system\HTTP\ResponseTrait.php(468): CodeIgniter\I18n\Time::now()
+#2 C:\Users\Administrator\Documents\folder-salman\first-app\system\HTTP\ResponseTrait.php(446): CodeIgniter\HTTP\Response->sendHeaders()
+#3 C:\Users\Administrator\Documents\folder-salman\first-app\system\Debug\ExceptionHandler.php(81): CodeIgniter\HTTP\Response->send()
+#4 C:\Users\Administrator\Documents\folder-salman\first-app\system\Debug\Exceptions.php(149): CodeIgniter\Debug\ExceptionHandler->handle(Object(Error), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#5 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#6 {main}
+  thrown
+【Previous Exception】
+Error
+Class "Locale" not found
+#0 C:\Users\Administrator\Documents\folder-salman\first-app\spark(88): CodeIgniter\CodeIgniter->initialize()
+#1 {main}
+in SYSTEMPATH\I18n\TimeTrait.php on line 74.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-11-08 02:13:59 --> Class "Locale" not found
+in SYSTEMPATH\CodeIgniter.php on line 218.
+ 1 ROOTPATH\spark(88): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-11-08 02:13:59 --> Uncaught Error: Class "Locale" not found in C:\Users\Administrator\Documents\folder-salman\first-app\system\I18n\TimeTrait.php:74
+Stack trace:
+#0 C:\Users\Administrator\Documents\folder-salman\first-app\system\I18n\TimeTrait.php(115): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 C:\Users\Administrator\Documents\folder-salman\first-app\system\HTTP\ResponseTrait.php(468): CodeIgniter\I18n\Time::now()
+#2 C:\Users\Administrator\Documents\folder-salman\first-app\system\HTTP\ResponseTrait.php(446): CodeIgniter\HTTP\Response->sendHeaders()
+#3 C:\Users\Administrator\Documents\folder-salman\first-app\system\Debug\ExceptionHandler.php(81): CodeIgniter\HTTP\Response->send()
+#4 C:\Users\Administrator\Documents\folder-salman\first-app\system\Debug\Exceptions.php(149): CodeIgniter\Debug\ExceptionHandler->handle(Object(Error), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#5 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#6 {main}
+  thrown
+【Previous Exception】
+Error
+Class "Locale" not found
+#0 C:\Users\Administrator\Documents\folder-salman\first-app\spark(88): CodeIgniter\CodeIgniter->initialize()
+#1 {main}
+in SYSTEMPATH\I18n\TimeTrait.php on line 74.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-11-08 03:17:16 --> Class "Locale" not found
+in SYSTEMPATH\CodeIgniter.php on line 218.
+ 1 ROOTPATH\spark(88): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-11-08 03:17:16 --> Uncaught Error: Class "Locale" not found in C:\Users\Administrator\Documents\folder-salman\first-app\system\I18n\TimeTrait.php:74
+Stack trace:
+#0 C:\Users\Administrator\Documents\folder-salman\first-app\system\I18n\TimeTrait.php(115): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 C:\Users\Administrator\Documents\folder-salman\first-app\system\HTTP\ResponseTrait.php(468): CodeIgniter\I18n\Time::now()
+#2 C:\Users\Administrator\Documents\folder-salman\first-app\system\HTTP\ResponseTrait.php(446): CodeIgniter\HTTP\Response->sendHeaders()
+#3 C:\Users\Administrator\Documents\folder-salman\first-app\system\Debug\ExceptionHandler.php(81): CodeIgniter\HTTP\Response->send()
+#4 C:\Users\Administrator\Documents\folder-salman\first-app\system\Debug\Exceptions.php(149): CodeIgniter\Debug\ExceptionHandler->handle(Object(Error), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#5 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#6 {main}
+  thrown
+【Previous Exception】
+Error
+Class "Locale" not found
+#0 C:\Users\Administrator\Documents\folder-salman\first-app\spark(88): CodeIgniter\CodeIgniter->initialize()
+#1 {main}
+in SYSTEMPATH\I18n\TimeTrait.php on line 74.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-11-08 03:19:27 --> Call to undefined method App\Controllers\Pages::validation()
+in APPPATH\Controllers\Pages.php on line 67.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Pages->insertEmployee()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Administrator\\Documents\\folder-salman\\first-app\\public\\index.php')
+CRITICAL - 2023-11-08 03:23:25 --> Undefined variable $data_insert
+in APPPATH\Controllers\Pages.php on line 78.
+ 1 APPPATH\Controllers\Pages.php(78): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data_insert', 'C:\\Users\\Administrator\\Documents\\folder-salman\\first-app\\app\\Controllers\\Pages.php', 78)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Pages->insertEmployee()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Administrator\\Documents\\folder-salman\\first-app\\public\\index.php')
+CRITICAL - 2023-11-08 03:26:55 --> "required " is not a valid rule.
+in SYSTEMPATH\Validation\Validation.php on line 319.
+ 1 SYSTEMPATH\Validation\Validation.php(319): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('required ')
+ 2 SYSTEMPATH\Validation\Validation.php(197): CodeIgniter\Validation\Validation->processRules('nama', 'nama', 'thdfhdfdfb', [...], [...])
+ 3 SYSTEMPATH\Controller.php(152): CodeIgniter\Validation\Validation->run()
+ 4 APPPATH\Controllers\Pages.php(68): CodeIgniter\Controller->validate([...])
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Pages->insertEmployee()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Administrator\\Documents\\folder-salman\\first-app\\public\\index.php')
+CRITICAL - 2023-11-08 03:37:33 --> Undefined variable $validation
+in APPPATH\Views\pages\insert.php on line 9.
+ 1 APPPATH\Views\pages\insert.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $validation', 'C:\\Users\\Administrator\\Documents\\folder-salman\\first-app\\app\\Views\\pages\\insert.php', 9)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\Users\\Administrator\\Documents\\folder-salman\\first-app\\app\\Views\\pages\\insert.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('pages/insert', [], true)
+ 5 APPPATH\Controllers\Pages.php(91): view('pages/insert', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Pages->insertEmployee()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Administrator\\Documents\\folder-salman\\first-app\\public\\index.php')
+CRITICAL - 2023-11-08 03:48:16 --> Undefined variable $validation
+in APPPATH\Views\pages\insert.php on line 10.
+ 1 APPPATH\Views\pages\insert.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $validation', 'C:\\Users\\Administrator\\Documents\\folder-salman\\first-app\\app\\Views\\pages\\insert.php', 10)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\Users\\Administrator\\Documents\\folder-salman\\first-app\\app\\Views\\pages\\insert.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('pages/insert', [], true)
+ 5 APPPATH\Controllers\Pages.php(91): view('pages/insert', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Pages->insertEmployee()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Administrator\\Documents\\folder-salman\\first-app\\public\\index.php')
+CRITICAL - 2023-11-08 03:56:57 --> view(): Argument #2 ($data) must be of type array, CodeIgniter\Validation\Validation given, called in C:\Users\Administrator\Documents\folder-salman\first-app\app\Controllers\Pages.php on line 71
+in SYSTEMPATH\Common.php on line 1178.
+ 1 APPPATH\Controllers\Pages.php(71): view('pages/insert', Object(CodeIgniter\Validation\Validation))
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Pages->insertEmployee()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Administrator\\Documents\\folder-salman\\first-app\\public\\index.php')
+CRITICAL - 2023-11-08 03:57:43 --> view(): Argument #2 ($data) must be of type array, CodeIgniter\Validation\Validation given, called in C:\Users\Administrator\Documents\folder-salman\first-app\app\Controllers\Pages.php on line 71
+in SYSTEMPATH\Common.php on line 1178.
+ 1 APPPATH\Controllers\Pages.php(71): view('pages/insert', Object(CodeIgniter\Validation\Validation))
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Pages->insertEmployee()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Administrator\\Documents\\folder-salman\\first-app\\public\\index.php')
+CRITICAL - 2023-11-08 03:57:46 --> view(): Argument #2 ($data) must be of type array, CodeIgniter\Validation\Validation given, called in C:\Users\Administrator\Documents\folder-salman\first-app\app\Controllers\Pages.php on line 71
+in SYSTEMPATH\Common.php on line 1178.
+ 1 APPPATH\Controllers\Pages.php(71): view('pages/insert', Object(CodeIgniter\Validation\Validation))
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Pages->insertEmployee()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Administrator\\Documents\\folder-salman\\first-app\\public\\index.php')
+CRITICAL - 2023-11-08 03:58:43 --> Undefined variable $validation
+in APPPATH\Views\pages\insert.php on line 11.
+ 1 APPPATH\Views\pages\insert.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $validation', 'C:\\Users\\Administrator\\Documents\\folder-salman\\first-app\\app\\Views\\pages\\insert.php', 11)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\Users\\Administrator\\Documents\\folder-salman\\first-app\\app\\Views\\pages\\insert.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('pages/insert', [], true)
+ 5 APPPATH\Controllers\Pages.php(92): view('pages/insert', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Pages->insertEmployee()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Administrator\\Documents\\folder-salman\\first-app\\public\\index.php')
+CRITICAL - 2023-11-08 04:02:52 --> Undefined variable $validation
+in APPPATH\Views\pages\insert.php on line 11.
+ 1 APPPATH\Views\pages\insert.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $validation', 'C:\\Users\\Administrator\\Documents\\folder-salman\\first-app\\app\\Views\\pages\\insert.php', 11)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\Users\\Administrator\\Documents\\folder-salman\\first-app\\app\\Views\\pages\\insert.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('pages/insert', [], true)
+ 5 APPPATH\Controllers\Pages.php(94): view('pages/insert', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Pages->insertEmployee()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Administrator\\Documents\\folder-salman\\first-app\\public\\index.php')
+CRITICAL - 2023-11-08 04:15:31 --> syntax error, unexpected variable "$data", expecting "function" or "const"
+in APPPATH\Controllers\Pages.php on line 94.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\Administrator\\Documents\\folder-salman\\first-app\\app\\Controllers\\Pages.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Pages')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Pages')
+ 4 SYSTEMPATH\CodeIgniter.php(900): class_exists('\\App\\Controllers\\Pages', true)
+ 5 SYSTEMPATH\CodeIgniter.php(489): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Administrator\\Documents\\folder-salman\\first-app\\public\\index.php')
+CRITICAL - 2023-11-08 04:16:02 --> syntax error, unexpected variable "$data", expecting "function" or "const"
+in APPPATH\Controllers\Pages.php on line 94.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\Administrator\\Documents\\folder-salman\\first-app\\app\\Controllers\\Pages.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Pages')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Pages')
+ 4 SYSTEMPATH\CodeIgniter.php(900): class_exists('\\App\\Controllers\\Pages', true)
+ 5 SYSTEMPATH\CodeIgniter.php(489): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Administrator\\Documents\\folder-salman\\first-app\\public\\index.php')
+CRITICAL - 2023-11-08 04:17:35 --> syntax error, unexpected variable "$data", expecting "function" or "const"
+in APPPATH\Controllers\Pages.php on line 94.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\Administrator\\Documents\\folder-salman\\first-app\\app\\Controllers\\Pages.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Pages')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Pages')
+ 4 SYSTEMPATH\CodeIgniter.php(900): class_exists('\\App\\Controllers\\Pages', true)
+ 5 SYSTEMPATH\CodeIgniter.php(489): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Administrator\\Documents\\folder-salman\\first-app\\public\\index.php')
+CRITICAL - 2023-11-08 04:29:09 --> Undefined variable $data_jabatan
+in APPPATH\Views\pages\insert.php on line 30.
+ 1 APPPATH\Views\pages\insert.php(30): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data_jabatan', 'C:\\Users\\Administrator\\Documents\\folder-salman\\first-app\\app\\Views\\pages\\insert.php', 30)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\Users\\Administrator\\Documents\\folder-salman\\first-app\\app\\Views\\pages\\insert.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('pages/insert', [], true)
+ 5 APPPATH\Controllers\Pages.php(69): view('pages/insert', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Pages->insertEmployee()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Administrator\\Documents\\folder-salman\\first-app\\public\\index.php')
+CRITICAL - 2023-11-08 04:29:11 --> Undefined variable $data_jabatan
+in APPPATH\Views\pages\insert.php on line 30.
+ 1 APPPATH\Views\pages\insert.php(30): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data_jabatan', 'C:\\Users\\Administrator\\Documents\\folder-salman\\first-app\\app\\Views\\pages\\insert.php', 30)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\Users\\Administrator\\Documents\\folder-salman\\first-app\\app\\Views\\pages\\insert.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('pages/insert', [], true)
+ 5 APPPATH\Controllers\Pages.php(69): view('pages/insert', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Pages->insertEmployee()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Administrator\\Documents\\folder-salman\\first-app\\public\\index.php')
+CRITICAL - 2023-11-08 04:32:53 --> Undefined variable $validation
+in APPPATH\Views\pages\insert.php on line 9.
+ 1 APPPATH\Views\pages\insert.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $validation', 'C:\\Users\\Administrator\\Documents\\folder-salman\\first-app\\app\\Views\\pages\\insert.php', 9)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\Users\\Administrator\\Documents\\folder-salman\\first-app\\app\\Views\\pages\\insert.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('pages/insert', [], true)
+ 5 APPPATH\Controllers\Pages.php(69): view('pages/insert', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Pages->insertEmployee()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Administrator\\Documents\\folder-salman\\first-app\\public\\index.php')
+CRITICAL - 2023-11-08 04:35:16 --> Undefined variable $data_jabatan
+in APPPATH\Views\pages\insert.php on line 30.
+ 1 APPPATH\Views\pages\insert.php(30): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data_jabatan', 'C:\\Users\\Administrator\\Documents\\folder-salman\\first-app\\app\\Views\\pages\\insert.php', 30)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\Users\\Administrator\\Documents\\folder-salman\\first-app\\app\\Views\\pages\\insert.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('pages/insert', [], true)
+ 5 APPPATH\Controllers\Pages.php(82): view('pages/insert', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Pages->saveEmployee()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Administrator\\Documents\\folder-salman\\first-app\\public\\index.php')
+CRITICAL - 2023-11-08 04:35:27 --> Undefined variable $data_jabatan
+in APPPATH\Views\pages\insert.php on line 30.
+ 1 APPPATH\Views\pages\insert.php(30): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data_jabatan', 'C:\\Users\\Administrator\\Documents\\folder-salman\\first-app\\app\\Views\\pages\\insert.php', 30)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\Users\\Administrator\\Documents\\folder-salman\\first-app\\app\\Views\\pages\\insert.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('pages/insert', [], true)
+ 5 APPPATH\Controllers\Pages.php(82): view('pages/insert', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Pages->saveEmployee()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Administrator\\Documents\\folder-salman\\first-app\\public\\index.php')
+CRITICAL - 2023-11-08 04:35:29 --> Undefined variable $data_jabatan
+in APPPATH\Views\pages\insert.php on line 30.
+ 1 APPPATH\Views\pages\insert.php(30): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data_jabatan', 'C:\\Users\\Administrator\\Documents\\folder-salman\\first-app\\app\\Views\\pages\\insert.php', 30)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\Users\\Administrator\\Documents\\folder-salman\\first-app\\app\\Views\\pages\\insert.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('pages/insert', [], true)
+ 5 APPPATH\Controllers\Pages.php(82): view('pages/insert', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Pages->saveEmployee()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Administrator\\Documents\\folder-salman\\first-app\\public\\index.php')
+CRITICAL - 2023-11-08 04:35:46 --> Undefined variable $validation
+in APPPATH\Views\pages\insert.php on line 9.
+ 1 APPPATH\Views\pages\insert.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $validation', 'C:\\Users\\Administrator\\Documents\\folder-salman\\first-app\\app\\Views\\pages\\insert.php', 9)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\Users\\Administrator\\Documents\\folder-salman\\first-app\\app\\Views\\pages\\insert.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('pages/insert', [], true)
+ 5 APPPATH\Controllers\Pages.php(71): view('pages/insert', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Pages->insertEmployee()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Administrator\\Documents\\folder-salman\\first-app\\public\\index.php')
+CRITICAL - 2023-11-08 04:36:25 --> syntax error, unexpected single-quoted string "validation", expecting "]"
+in APPPATH\Controllers\Pages.php on line 69.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\Administrator\\Documents\\folder-salman\\first-app\\app\\Controllers\\Pages.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Pages')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Pages')
+ 4 SYSTEMPATH\CodeIgniter.php(900): class_exists('\\App\\Controllers\\Pages', true)
+ 5 SYSTEMPATH\CodeIgniter.php(489): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Administrator\\Documents\\folder-salman\\first-app\\public\\index.php')
+ERROR - 2023-11-08 07:07:20 --> Error connecting to the database: mysqli_sql_exception: No connection could be made because the target machine actively refused it in C:\Users\Administrator\Documents\folder-salman\first-app\system\Database\MySQLi\Connection.php:185
+Stack trace:
+#0 C:\Users\Administrator\Documents\folder-salman\first-app\system\Database\MySQLi\Connection.php(185): mysqli->real_connect('127.0.0.1', 'root', '', 'db_test', 3306, '', 0)
+#1 C:\Users\Administrator\Documents\folder-salman\first-app\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\Users\Administrator\Documents\folder-salman\first-app\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\Users\Administrator\Documents\folder-salman\first-app\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\Users\Administrator\Documents\folder-salman\first-app\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Users\Administrator\Documents\folder-salman\first-app\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\Users\Administrator\Documents\folder-salman\first-app\app\Controllers\Pages.php(37): CodeIgniter\BaseModel->findAll()
+#7 C:\Users\Administrator\Documents\folder-salman\first-app\system\CodeIgniter.php(942): App\Controllers\Pages->employee()
+#8 C:\Users\Administrator\Documents\folder-salman\first-app\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#9 C:\Users\Administrator\Documents\folder-salman\first-app\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\Users\Administrator\Documents\folder-salman\first-app\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\Users\Administrator\Documents\folder-salman\first-app\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admini...')
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No connection could be made because the target machine actively refused it in C:\Users\Administrator\Documents\folder-salman\first-app\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\Users\Administrator\Documents\folder-salman\first-app\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\Users\Administrator\Documents\folder-salman\first-app\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\Users\Administrator\Documents\folder-salman\first-app\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\Users\Administrator\Documents\folder-salman\first-app\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\Users\Administrator\Documents\folder-salman\first-app\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\Users\Administrator\Documents\folder-salman\first-app\app\Controllers\Pages.php(37): CodeIgniter\BaseModel->findAll()
+#6 C:\Users\Administrator\Documents\folder-salman\first-app\system\CodeIgniter.php(942): App\Controllers\Pages->employee()
+#7 C:\Users\Administrator\Documents\folder-salman\first-app\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#8 C:\Users\Administrator\Documents\folder-salman\first-app\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Users\Administrator\Documents\folder-salman\first-app\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 C:\Users\Administrator\Documents\folder-salman\first-app\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Admini...')
+#11 {main}
+CRITICAL - 2023-11-08 07:07:20 --> Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `tb_employee`', [], false)
+ 3 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\Pages.php(37): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Pages->employee()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Administrator\\Documents\\folder-salman\\first-app\\public\\index.php')
+CRITICAL - 2023-11-08 07:40:39 --> Array to string conversion
+in APPPATH\Views\pages\insert.php on line 11.
+ 1 APPPATH\Views\pages\insert.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\Users\\Administrator\\Documents\\folder-salman\\first-app\\app\\Views\\pages\\insert.php', 11)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\Users\\Administrator\\Documents\\folder-salman\\first-app\\app\\Views\\pages\\insert.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('pages/insert', [], true)
+ 5 APPPATH\Controllers\Pages.php(71): view('pages/insert', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Pages->insertEmployee()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Administrator\\Documents\\folder-salman\\first-app\\public\\index.php')
+CRITICAL - 2023-11-08 07:41:14 --> Array to string conversion
+in APPPATH\Views\pages\insert.php on line 11.
+ 1 APPPATH\Views\pages\insert.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\Users\\Administrator\\Documents\\folder-salman\\first-app\\app\\Views\\pages\\insert.php', 11)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\Users\\Administrator\\Documents\\folder-salman\\first-app\\app\\Views\\pages\\insert.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('pages/insert', [], true)
+ 5 APPPATH\Controllers\Pages.php(71): view('pages/insert', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Pages->insertEmployee()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Administrator\\Documents\\folder-salman\\first-app\\public\\index.php')
+CRITICAL - 2023-11-08 07:44:58 --> Array to string conversion
+in APPPATH\Views\pages\insert.php on line 11.
+ 1 APPPATH\Views\pages\insert.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\Users\\Administrator\\Documents\\folder-salman\\first-app\\app\\Views\\pages\\insert.php', 11)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\Users\\Administrator\\Documents\\folder-salman\\first-app\\app\\Views\\pages\\insert.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('pages/insert', [], true)
+ 5 APPPATH\Controllers\Pages.php(71): view('pages/insert', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Pages->insertEmployee()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Administrator\\Documents\\folder-salman\\first-app\\public\\index.php')
+CRITICAL - 2023-11-08 07:47:26 --> Array to string conversion
+in APPPATH\Views\pages\insert.php on line 12.
+ 1 APPPATH\Views\pages\insert.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\Users\\Administrator\\Documents\\folder-salman\\first-app\\app\\Views\\pages\\insert.php', 12)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\Users\\Administrator\\Documents\\folder-salman\\first-app\\app\\Views\\pages\\insert.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('pages/insert', [], true)
+ 5 APPPATH\Controllers\Pages.php(71): view('pages/insert', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Pages->insertEmployee()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Administrator\\Documents\\folder-salman\\first-app\\public\\index.php')
+CRITICAL - 2023-11-08 07:47:51 --> Cannot access offset of type string on string
+in APPPATH\Views\pages\insert.php on line 12.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('pages/insert', [], true)
+ 4 APPPATH\Controllers\Pages.php(71): view('pages/insert', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Pages->insertEmployee()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Administrator\\Documents\\folder-salman\\first-app\\public\\index.php')
+CRITICAL - 2023-11-08 07:48:30 --> Undefined variable $data
+in APPPATH\Views\pages\insert.php on line 12.
+ 1 APPPATH\Views\pages\insert.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\Users\\Administrator\\Documents\\folder-salman\\first-app\\app\\Views\\pages\\insert.php', 12)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\Users\\Administrator\\Documents\\folder-salman\\first-app\\app\\Views\\pages\\insert.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('pages/insert', [], true)
+ 5 APPPATH\Controllers\Pages.php(71): view('pages/insert', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Pages->insertEmployee()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Administrator\\Documents\\folder-salman\\first-app\\public\\index.php')
+CRITICAL - 2023-11-08 07:51:50 --> Undefined array key "nama"
+in APPPATH\Views\pages\insert.php on line 12.
+ 1 APPPATH\Views\pages\insert.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nama"', 'C:\\Users\\Administrator\\Documents\\folder-salman\\first-app\\app\\Views\\pages\\insert.php', 12)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\Users\\Administrator\\Documents\\folder-salman\\first-app\\app\\Views\\pages\\insert.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('pages/insert', [], true)
+ 5 APPPATH\Controllers\Pages.php(71): view('pages/insert', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Pages->insertEmployee()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Administrator\\Documents\\folder-salman\\first-app\\public\\index.php')

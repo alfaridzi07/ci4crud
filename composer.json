@@ -1,0 +1,9 @@
+{
+    "name": "administrator/first-app",
+    "autoload": {
+        "psr-4": {
+            "Administrator\\FirstApp\\": "src/"
+        }
+    },
+    "require": {}
+}
